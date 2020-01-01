@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{Easttom2005Network}
+Chuck Easttom.
+\newblock {\em Network Defense and Countermeasures: Principles and Practices}.
+\newblock 2005.
+
+\bibitem{RokachMobile}
+Rokach, Lior, Bettini, Claudio, Choo, Kim-Kwang, and Raymond.
+\newblock Mobile security and privacy: Advances, challenges and future research
+  directions.
+
+\bibitem{20195G}
+宫小飞.
+\newblock 5g技术对网络空间安全的影响——兼论中美5g竞争.
+\newblock {\em 信息安全与通信保密}, 2019.
+
+\bibitem{B}
+廉士珍.
+\newblock 计算机网络通信安全中数据加密技术的应用分析.
+\newblock {\em 硅谷}, (19):188.
+
+\bibitem{A}
+张杨.
+\newblock 新形势下计算机网络通信中存在的问题及改进策略.
+\newblock {\em 电脑编程技巧与维护}, (24):74--75, 2016.
+
+\bibitem{2018Android}
+熊源远.
+\newblock {\em Android系统的渗透测试综合平台研究}.
+\newblock PhD thesis, 武汉工程大学, 2018.
+
+\bibitem{C}
+陆晶 and 程玮.
+\newblock {\em 大学计算机基础教程}.
+\newblock 2014.
+
+\end{thebibliography}
